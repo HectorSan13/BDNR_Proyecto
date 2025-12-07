@@ -1,0 +1,11 @@
+row,user_id,name,email,joined_at
+1,u1,Vincent van Gogh,vangogh@orsaymail.com,2024-01-10T10:00:00
+2,u2,Pierre-Auguste Renoir,renoir@orsaymail.com,2024-01-12T11:30:00
+3,u3,Edouard Manet,manet@orsaymail.com,2024-02-05T09:15:00
+4,u4,Gustave Courbet,courbet@orsaymail.com,2024-03-01T14:45:00
+5,u5,Paul Cezanne,cezanne@orsaymail.com,2024-04-22T08:20:00
+6,u6,Georges Seurat,seurat@orsaymail.com,2024-05-11T13:50:00
+7,u7,Claude Monet,monet@orsaymail.com,2024-06-15T16:10:00
+8,u8,Pierre Bonnard,bonnard@orsaymail.com,2024-07-02T12:30:00
+9,u9,Edouard Vuillard,vuillard@orsaymail.com,2024-08-19T09:05:00
+10,u10,Henri Rousseau,rousseau@orsaymail.com,2024-09-25T17:20:00

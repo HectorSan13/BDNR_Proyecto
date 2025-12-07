@@ -1,0 +1,21 @@
+row,product_id,name,category,price
+1,p1,Van Gogh Oil Painting Replica,Paintings,12000
+2,p2,Monet Water Lilies Canvas,Paintings,9500
+3,p3,Renoir Portrait Print,Prints,4500
+4,p4,Impressionist Sketch Set,Art Supplies,350
+5,p5,Professional Watercolor Set,Art Supplies,500
+6,p6,Limited Edition Art Poster,Prints,800
+7,p7,Museum Coffee Table Book,Books,1200
+8,p8,Artistic Desk Lamp,Home & Decor,900
+9,p9,Custom Portrait Miniature,Sculptures,2000
+10,p10,Brush Set for Oil Painting,Art Supplies,400
+11,p11,Palette Knife Set,Art Supplies,300
+12,p12,High-End Easel,Art Supplies,2500
+13,p13,Sculpting Clay Kit,Art Supplies,600
+14,p14,Contemporary Sculpture Figurine,Sculptures,2000
+15,p15,Artistic Journal,Stationery,350
+16,p16,Prints of Classical Masterpieces,Prints,1000
+17,p17,Museum Membership Annual Pass,Books,5000
+18,p18,Color Theory Educational Kit,Art Supplies,700
+19,p19,Handmade Decorative Vase,Home & Decor,1500
+20,p20,Modern Art Wall Clock,Home & Decor,1200

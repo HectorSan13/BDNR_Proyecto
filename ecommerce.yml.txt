@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  mongo_ecommerce:
+    image: mongo:6.0
+    container_name: mongo_ecommerce
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: bdnr_mongo
+    volumes:
+      - mongo_data:/data/db
+
+  cassandra_ecommerce:
+    image: cassandra:4.1
+    container_name: cassandra_ecommerce
+    restart: always
+    ports:
+      - "9042:9042"
+    environment:
+      CASSANDRA_KEYSPACE: bdnr_cassandra
+      CASSANDRA_CLUSTER_NAME: "ecommerce_cluster"
+      CASSANDRA_DC: "dc1"
+      CASSANDRA_RACK: "rack1"
+    volumes:
+      - cassandra_data:/var/lib/cassandra
+
+volumes:
+  mongo_data:
+  cassandra_data:

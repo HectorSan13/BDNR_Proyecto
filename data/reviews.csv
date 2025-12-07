@@ -1,0 +1,21 @@
+row,review_id,rating,comment,created_at,reviewed_by_uid,of_product_uid
+1,r1,4.8,"A masterpiece in its own right, truly vibrant and lively",2024-06-01T14:00:00,u1,p1
+2,r2,3.5,"Decent, but I was hoping for a touch more pizzazz",2024-06-02T15:30:00,u2,p2
+3,r3,5.0,"Absolutely exquisite! A must-have for any aspiring Van Gogh",2024-06-03T10:20:00,u3,p3
+4,r4,4.2,"Good for quick sketches, not exactly revolutionary",2024-06-04T11:10:00,u4,p4
+5,r5,4.9,"Texture and finish? Chef’s kiss. Makes my canvas sing",2024-06-05T16:45:00,u5,p5
+6,r6,3.8,"Cute, but slightly overhyped in my humble opinion",2024-06-06T09:00:00,u6,p6
+7,r7,5.0,"Books that inspire creativity? Sold. Hook, line, and brushstroke",2024-06-07T13:20:00,u7,p7
+8,r8,4.5,"Stylish decor, fits my aesthetic perfectly",2024-06-08T17:35:00,u8,p8
+9,r9,4.7,"Miniature magic! Delicate details that make me smile",2024-06-09T10:50:00,u9,p9
+10,r10,4.3,"Brushes are comfy, though not life-altering",2024-06-10T15:15:00,u10,p10
+11,r11,4.6,"Palette knives sharp enough to slice through your expectations",2024-06-11T12:25:00,u1,p11
+12,r12,4.8,"Easel stands firm—finally, no wobbles in my artistic life",2024-06-12T14:40:00,u2,p12
+13,r13,4.0,"Clay has potential, but feels stubborn and dramatic",2024-06-13T16:05:00,u3,p13
+14,r14,4.9,"Sculpture elegance overload. I almost bowed to it",2024-06-14T09:55:00,u4,p14
+15,r15,4.4,"Notebook handy for doodles and sporadic brilliance",2024-06-15T11:30:00,u5,p15
+16,r16,4.7,"Posters pop like a gallery wall on steroids",2024-06-16T10:10:00,u6,p16
+17,r17,5.0,"Annual pass? Worth every penny. Instant culture injection",2024-06-17T13:45:00,u7,p17
+18,r18,4.2,"Educational kit: teaches color theory without being a bore",2024-06-18T15:00:00,u8,p18
+19,r19,4.6,"Decorative vase is chic, almost too chic for my apartment",2024-06-19T12:15:00,u9,p19
+20,r20,4.8,"Wall clock blends function and art like a New York Times headline",2024-06-20T14:50:00,u10,p20
